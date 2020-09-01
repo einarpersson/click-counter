@@ -1,1 +1,2 @@
-# Basic template for simple web pages
+# Click Counter
+Basic Vanilla JavaScript demo.
