@@ -21,6 +21,7 @@ body {
 button {
   background-color: hsl(200, 30%, 50%);
   color: hsl(200, 20%, 98%);
+  cursor: pointer;
 
   height: 64px;
   width: 64px;
